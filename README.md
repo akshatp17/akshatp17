@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, <a href="https://github.com/akshatp17/akshatp17" target="blank">Akshat Pratyush</a> here...</h1> 
 <h4 align="center">Web Developer | Game Developer | Graphic Designer</h4>  
+<h4 align="center">Published Games : <a href="https://infamix-studios.itch.io/">Infamix Studios</h4>  
 
 [![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)](https://github.com/akshatp17)
 
