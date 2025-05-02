@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, <a href="https://github.com/akshatp17/akshatp17" target="blank">Akshat Pratyush</a> here...</h1> 
-<h4 align="center">Web Developer | Game Developer </h4>  
+<h2 align="center">👨🏻‍💻 Software Developer</h2>  
+<h4 align="center">Personal Portfolio : <a href="https://akshatpratyush.live">Akshat Pratyush</h4>  
 <h4 align="center">Published Games : <a href="https://infamix-studios.itch.io/">Infamix Studios</h4>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatp17&label=Profile%20views&color=0e75b6&style=flat" alt="akshatp17" /> </p>
 	
