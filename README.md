@@ -11,7 +11,7 @@
 <div align="left">
   <h1>🛠Tech Stack & Software</h1>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,c,javascript,tailwind,mongodb,express,react,nodejs,html,css,github,java,python,godot,ps,pr,vscode"/>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,c,javascript,tailwind,mongodb,express,react,nodejs,html,css,github,java,python,flask,godot,ps,pr,vscode"/>
   </p>
 </div>
 
